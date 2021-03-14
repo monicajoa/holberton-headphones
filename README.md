@@ -2,19 +2,15 @@
 
 In this project, it will implement from scratch, without any library, a web page. It will use all HTML/CSS/Accessibility/Responsive design knowledges learned previously.
 
-### Final result
+### Final result Responsive Design
 
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/2/60df485eb772ecbad54a.jpg?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210312T025303Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=4f6bb266e20f888b9708c7c86aed50fbe0b7960594ab8d4aba712030323c6fbf)
+![](https://i.imgur.com/pyKrwjS.png?1)
 
 ## Requirements
 
 - Not allowed to import external CSS framework (like Bootstrap)
 - Do not use Javascript
   Design given in [Figma](https://www.figma.com).
-
-## Responsive Design
-
-![](https://holbertonintranet.s3.amazonaws.com/uploads/medias/2020/3/83d6311e87d4775ca4b3.gif?X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARDDGGGOUWMNL5ANN%2F20210312%2Fus-east-1%2Fs3%2Faws4_request&X-Amz-Date=20210312T025304Z&X-Amz-Expires=86400&X-Amz-SignedHeaders=host&X-Amz-Signature=ce7c9bebef0a63d3993a5fd0f7c6a82e8991e2d3611beacfa39fea46567384e5)
 
 ## Implementing a design
 
