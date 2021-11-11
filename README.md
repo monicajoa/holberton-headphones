@@ -2,10 +2,10 @@
 
 In this project, it will implement from scratch, without any library, a web page. It will use all HTML/CSS/Accessibility/Responsive design knowledges learned previously.
 
-### Final result Responsive Design
+### Expected Final Result - Responsive Design
 
 <p align="center">
-<img align="center" width="480" alt="figma-img" src="https://github.com/monicajoa/holberton-headphones/blob/master/figma-img.png?raw=true">
+<img width="450" alt="figma-img" src="https://github.com/monicajoa/holberton-headphones/blob/master/figma-img.png?raw=true">
 
 ## Requirements
 
