@@ -4,7 +4,8 @@ In this project, it will implement from scratch, without any library, a web page
 
 ### Final result Responsive Design
 
-![](https://i.imgur.com/pyKrwjS.png?1)
+<p align="center">
+<img align="center" width="480" alt="figma-img" src="https://github.com/monicajoa/holberton-headphones/blob/master/figma-img.png?raw=true">
 
 ## Requirements
 
